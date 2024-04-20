@@ -16,8 +16,8 @@
 ### endpoints opzoeken
 
 Zoek de volgende endpoints op:
-- Vraag 1 willekeurige foto van een hond op: *Noteer de endpoint hier*
-- Vraag 5 willekeurige foto's van honden op: *Noteer de endpoint hier*
-- Vraag 1 lijst van alle hondenrassen op: *Noteer de endpoint hier*
-- Vraag 1 willekeurige foto van een specifiek hondenras op (bv. 'Husky'): *Noteer de endpoint hier*
-- Vraag 5 willekeurige foto's van een specifiek hondenras op (bv. 'Doberman'): *Noteer de endpoint hier*
+- Vraag 1 willekeurige foto van een hond op: https://dog.ceo/api/breed/hound/afghan/images/random
+- Vraag 5 willekeurige foto's van honden op: https://dog.ceo/api/breeds/image/random
+- Vraag 1 lijst van alle hondenrassen op: https://dog.ceo/api/breeds/list/all
+- Vraag 1 willekeurige foto van een specifiek hondenras op (bv. 'Husky'): https://images.dog.ceo/breeds/husky/n02110185_5628.jpg
+- Vraag 5 willekeurige foto's van een specifiek hondenras op (bv. 'Doberman'): https://images.dog.ceo/breeds/doberman/n02107142_4763.jpg
